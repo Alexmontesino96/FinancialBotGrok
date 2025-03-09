@@ -28,6 +28,7 @@ env/
 # Archivos de configuración local
 .env
 config.local.py
+config.py  # Archivo de configuración con tokens sensibles
 
 # Archivos de IDE
 .idea/

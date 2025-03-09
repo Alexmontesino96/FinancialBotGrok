@@ -1,8 +1,8 @@
 # Configuración del bot
-BOT_TOKEN = '7739746761:AAFIRUGU9teEe0LIuEU6P9k6if6wl3MCZY0'
+BOT_TOKEN = 'TU_TOKEN_DE_TELEGRAM_AQUI'  # Reemplaza con tu token de bot de Telegram
 
 # Configuración de la API
-API_BASE_URL = "http://localhost:8099"
+API_BASE_URL = "http://localhost:8099"  # URL base de la API
 
 # Estados para los flujos de conversación
 # Flujo de inicio
